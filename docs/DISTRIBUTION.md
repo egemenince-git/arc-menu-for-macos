@@ -35,7 +35,7 @@ The script verifies the signature, submits the app to Apple's notary service, wa
 
 ## Before publishing a release
 
-- Select and add a `LICENSE` if reuse or redistribution should be permitted. Until then, the public source has no reuse license.
+- Preserve the MIT License and copyright notice in distributed copies.
 - Confirm product name, copyright, bundle identifier, and versioning policy.
 - Add a production app icon and verify bundle metadata.
 - Document clean install and uninstall steps.

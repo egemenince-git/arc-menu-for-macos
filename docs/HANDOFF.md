@@ -36,4 +36,4 @@ The app stays in the menu bar. Press Control-Escape to open the launcher.
 - There is no automated test target or CI workflow yet.
 - The app has no icon or updater.
 - There is no packaged GitHub release yet. See the [distribution notes](DISTRIBUTION.md) before preparing one.
-- No `LICENSE` has been selected. Do not assume the source is licensed for reuse or redistribution.
+- The project uses the MIT License; preserve its copyright and license notice when redistributing copies.

@@ -67,4 +67,4 @@ In Settings → **USE AI**, enter a TypeSafe API key and choose **Verify API Key
 
 ## License
 
-No license has been selected yet. Until a `LICENSE` file is added, do not assume that the source is licensed for reuse or redistribution.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
