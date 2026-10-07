@@ -2,7 +2,7 @@
 
 Arc Menu for macOS is a native macOS application launcher inspired by GNOME ArcMenu. The app currently appears as **Ctrl-Esc** and opens a searchable, keyboard-driven launcher with **Control-Escape**.
 
-> **Project status:** early development, Apple Silicon only. The source is public; no packaged release is published yet.
+> **Project status:** early development, Apple Silicon only. The source and the [0.1.0 download](https://github.com/egemenince-git/arc-menu-for-macos/releases/tag/v0.1.0) are available on GitHub.
 
 ## Features
 
@@ -63,7 +63,7 @@ In Settings → **USE AI**, enter a TypeSafe API key and choose **Verify API Key
 - [Contributor handoff](docs/HANDOFF.md)
 - [Contributing](CONTRIBUTING.md)
 - [Security and disclosure](SECURITY.md)
-- [Distribution readiness plan](docs/DISTRIBUTION.md)
+- [Distribution notes](docs/DISTRIBUTION.md)
 
 ## License
 

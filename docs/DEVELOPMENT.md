@@ -69,6 +69,6 @@ To troubleshoot a user-reported API failure, ask for the HTTP status and redacte
 ## Current gaps
 
 - No automated test target or CI workflow is configured.
-- No app icon, release archive, updater, or public release process is configured.
+- The 0.1.0 release archive is published on GitHub. There is no app icon, updater, or automated release workflow yet.
 - The build script is arm64-only and ad-hoc signs the app.
 - See the [distribution readiness plan](DISTRIBUTION.md) before preparing a public build.

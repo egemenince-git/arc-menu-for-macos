@@ -1,6 +1,6 @@
 # Distribution notes
 
-This document describes how to prepare a direct-download release. The public GitHub repository currently contains source code only; a packaged release has not been published.
+This document describes the direct-download release workflow. Version [0.1.0 is published on GitHub Releases](https://github.com/egemenince-git/arc-menu-for-macos/releases/tag/v0.1.0) for macOS 14 or later on Apple Silicon.
 
 ## Build and verify locally
 

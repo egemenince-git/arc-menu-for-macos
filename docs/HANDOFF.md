@@ -35,5 +35,5 @@ The app stays in the menu bar. Press Control-Escape to open the launcher.
 
 - There is no automated test target or CI workflow yet.
 - The app has no icon or updater.
-- There is no packaged GitHub release yet. See the [distribution notes](DISTRIBUTION.md) before preparing one.
+- Version [0.1.0 is available on GitHub Releases](https://github.com/egemenince-git/arc-menu-for-macos/releases/tag/v0.1.0). See the [distribution notes](DISTRIBUTION.md) before preparing another release.
 - The project uses the MIT License; preserve its copyright and license notice when redistributing copies.
